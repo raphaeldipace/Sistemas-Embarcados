@@ -21,8 +21,7 @@ Repositório contendo projetos desenvolvidos na disciplina de **Sistemas Embarca
 ### ➕ Outros projetos (futuros)
 - PWM com LED
 - Leitura de sensores analógicos
-- Comunicação serial (USART)
-- [Adicionar novos projetos conforme desenvolvimento.]
+- Comunicação serial
 
 ## ▶️ Como rodar no SimulIDE
 1. Abra o arquivo `.simu` no **SimulIDE**.
