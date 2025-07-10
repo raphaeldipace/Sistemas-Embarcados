@@ -1,0 +1,101 @@
+<circuit version="1.1.0-SR1" rev="2005" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="0" >
+
+<item itemtype="MCU" CircId="mega328-1" mainComp="false" Show_id="true" Show_Val="false" Pos="-364,-76" rotation="0" hflip="1" vflip="1" label="mega328-1" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Frequency="16 MHz" Program="../../../Microchip TEE/1- Projects/GccApplication2/GccApplication2/Debug/GccApplication2.hex" Auto_Load="false" saveEepr="true" Logic_Symbol="false" Rst_enabled="false" Ext_Osc="false" Wdt_enabled="false" Clk_Out="false" MainMcu="true" SerialMon="-1" />
+
+<item itemtype="BJT" CircId="BJT-2" mainComp="false" Show_id="false" Show_Val="false" Pos="-208,48" rotation="0" hflip="1" vflip="1" label="BJT-2" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" PNP="false" Gain="100" Vcrit="0.670736 V" />
+
+<item itemtype="BJT" CircId="BJT-3" mainComp="false" Show_id="false" Show_Val="false" Pos="-160,48" rotation="0" hflip="1" vflip="1" label="BJT-3" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" PNP="false" Gain="100" Vcrit="0.670736 V" />
+
+<item itemtype="BJT" CircId="BJT-4" mainComp="false" Show_id="false" Show_Val="false" Pos="-112,48" rotation="0" hflip="1" vflip="1" label="BJT-4" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" PNP="false" Gain="100" Vcrit="0.670736 V" />
+
+<item itemtype="Seven Segment" CircId="Seven Segment-5" mainComp="false" Show_id="false" Show_Val="false" Pos="-192,-52" rotation="0" hflip="1" vflip="1" label="Seven Segment-5" idLabPos="20,-44" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" NumDisplays="4" Vertical_Pins="false" CommonCathode="true" Threshold="2.4 V" MaxCurrent="20 mA" Resistance="1 Ω" />
+
+<item itemtype="BJT" CircId="BJT-6" mainComp="false" Show_id="false" Show_Val="false" Pos="-68,48" rotation="0" hflip="1" vflip="1" label="BJT-6" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" PNP="false" Gain="100" Vcrit="0.670736 V" />
+
+<item itemtype="Ground" CircId="Ground-7" mainComp="false" Show_id="false" Show_Val="false" Pos="-200,96" rotation="0" hflip="1" vflip="1" label="Ground-7" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Ground" CircId="Ground-8" mainComp="false" Show_id="false" Show_Val="false" Pos="-152,96" rotation="0" hflip="1" vflip="1" label="Ground-8" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Ground" CircId="Ground-9" mainComp="false" Show_id="false" Show_Val="false" Pos="-104,96" rotation="0" hflip="1" vflip="1" label="Ground-9" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Ground" CircId="Ground-10" mainComp="false" Show_id="false" Show_Val="false" Pos="-60,96" rotation="0" hflip="1" vflip="1" label="Ground-10" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Push" CircId="Push-11" mainComp="false" Show_id="false" Show_Val="false" Pos="-468,60" rotation="0" hflip="1" vflip="1" label="Push-11" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" />
+
+<item itemtype="Ground" CircId="Ground-12" mainComp="false" Show_id="false" Show_Val="false" Pos="-496,96" rotation="0" hflip="1" vflip="1" label="Ground-12" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Push" CircId="Push-13" mainComp="false" Show_id="false" Show_Val="false" Pos="-468,108" rotation="0" hflip="1" vflip="1" label="Push-13" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" />
+
+<item itemtype="Ground" CircId="Ground-14" mainComp="false" Show_id="false" Show_Val="false" Pos="-496,144" rotation="0" hflip="1" vflip="1" label="Ground-14" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Push" CircId="Push-15" mainComp="false" Show_id="false" Show_Val="false" Pos="-468,160" rotation="0" hflip="1" vflip="1" label="Push-15" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" />
+
+<item itemtype="Ground" CircId="Ground-16" mainComp="false" Show_id="false" Show_Val="false" Pos="-496,196" rotation="0" hflip="1" vflip="1" label="Ground-16" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Push" CircId="Push-17" mainComp="false" Show_id="false" Show_Val="false" Pos="-468,208" rotation="0" hflip="1" vflip="1" label="Push-17" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" />
+
+<item itemtype="Ground" CircId="Ground-18" mainComp="false" Show_id="false" Show_Val="false" Pos="-496,244" rotation="0" hflip="1" vflip="1" label="Ground-18" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="TextComponent" CircId="TextComponent-21" mainComp="false" Show_id="false" Show_Val="false" Pos="-580,112" rotation="0" hflip="1" vflip="1" label="TextComponent-21" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _px" Border="1 _px" Color="#ffffdc" Opacity="1" Font="Helvetica [Cronyx]" Font_Color="#000080" Font_Size="10 _px" Fixed_Width="false" Text="Button B" />
+
+<item itemtype="TextComponent" CircId="TextComponent-22" mainComp="false" Show_id="false" Show_Val="false" Pos="-580,164" rotation="0" hflip="1" vflip="1" label="TextComponent-22" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _px" Border="1 _px" Color="#ffffdc" Opacity="1" Font="Helvetica [Cronyx]" Font_Color="#000080" Font_Size="10 _px" Fixed_Width="false" Text="Button C" />
+
+<item itemtype="TextComponent" CircId="TextComponent-23" mainComp="false" Show_id="false" Show_Val="false" Pos="-580,216" rotation="0" hflip="1" vflip="1" label="TextComponent-23" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _px" Border="1 _px" Color="#ffffdc" Opacity="1" Font="Helvetica [Cronyx]" Font_Color="#000080" Font_Size="10 _px" Fixed_Width="false" Text="Button D" />
+
+<item itemtype="TextComponent" CircId="TextComponent-24" mainComp="false" Show_id="false" Show_Val="false" Pos="-580,64" rotation="0" hflip="1" vflip="1" label="TextComponent-24" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _px" Border="1 _px" Color="#ffffdc" Opacity="1" Font="Helvetica [Cronyx]" Font_Color="#000080" Font_Size="10 _px" Fixed_Width="false" Text="Button A" />
+
+<item itemtype="Connector" uid="Connector-8" startpinid="Seven Segment-5-pin_commona" endpinid="BJT-2-collector" pointList="-184,-20,-184,8,-200,8,-200,32" />
+
+<item itemtype="Connector" uid="Connector-9" startpinid="Seven Segment-5-pin_commonb" endpinid="BJT-3-collector" pointList="-152,-20,-152,32" />
+
+<item itemtype="Connector" uid="Connector-11" startpinid="Seven Segment-5-pin_commonc" endpinid="BJT-4-collector" pointList="-120,-20,-120,8,-104,8,-104,32" />
+
+<item itemtype="Connector" uid="Connector-12" startpinid="Seven Segment-5-pin_commond" endpinid="BJT-6-collector" pointList="-88,-20,-88,8,-60,8,-60,32" />
+
+<item itemtype="Connector" uid="Connector-13" startpinid="BJT-2-emiter" endpinid="Ground-7-Gnd" pointList="-200,64,-200,80" />
+
+<item itemtype="Connector" uid="Connector-14" startpinid="mega328-1-PORTB0" endpinid="BJT-2-base" pointList="-372,36,-372,68,-236,68,-236,48,-224,48" />
+
+<item itemtype="Connector" uid="Connector-15" startpinid="mega328-1-PORTB1" endpinid="BJT-3-base" pointList="-324,36,-280,36,-280,24,-176,24,-176,48" />
+
+<item itemtype="Connector" uid="Connector-16" startpinid="mega328-1-PORTB2" endpinid="BJT-4-base" pointList="-324,28,-288,28,-288,16,-128,16,-128,48" />
+
+<item itemtype="Connector" uid="Connector-17" startpinid="BJT-6-base" endpinid="mega328-1-PORTB3" pointList="-84,48,-84,0,-300,0,-300,20,-324,20" />
+
+<item itemtype="Connector" uid="Connector-18" startpinid="BJT-3-emiter" endpinid="Ground-8-Gnd" pointList="-152,64,-152,80" />
+
+<item itemtype="Connector" uid="Connector-19" startpinid="BJT-4-emiter" endpinid="Ground-9-Gnd" pointList="-104,64,-104,80" />
+
+<item itemtype="Connector" uid="Connector-20" startpinid="BJT-6-emiter" endpinid="Ground-10-Gnd" pointList="-60,64,-60,80" />
+
+<item itemtype="Connector" uid="Connector-21" startpinid="Seven Segment-5-pin_g" endpinid="mega328-1-PORTD0" pointList="-216,-28,-304,-28,-304,-96,-376,-96,-376,-60,-372,-60" />
+
+<item itemtype="Connector" uid="Connector-22" startpinid="Seven Segment-5-pin_f" endpinid="mega328-1-PORTD1" pointList="-216,-36,-300,-36,-300,-100,-380,-100,-380,-52,-372,-52" />
+
+<item itemtype="Connector" uid="Connector-23" startpinid="Seven Segment-5-pin_e" endpinid="mega328-1-PORTD2" pointList="-216,-44,-296,-44,-296,-104,-384,-104,-384,-44,-372,-44" />
+
+<item itemtype="Connector" uid="Connector-24" startpinid="Seven Segment-5-pin_d" endpinid="mega328-1-PORTD3" pointList="-216,-52,-292,-52,-292,-108,-388,-108,-388,-36,-372,-36" />
+
+<item itemtype="Connector" uid="Connector-25" startpinid="Seven Segment-5-pin_c" endpinid="mega328-1-PORTD4" pointList="-216,-60,-288,-60,-288,-112,-392,-112,-392,-28,-372,-28" />
+
+<item itemtype="Connector" uid="Connector-26" startpinid="Seven Segment-5-pin_b" endpinid="mega328-1-PORTD5" pointList="-216,-68,-284,-68,-284,-116,-396,-116,-396,12,-372,12" />
+
+<item itemtype="Connector" uid="Connector-27" startpinid="Seven Segment-5-pin_a" endpinid="mega328-1-PORTD6" pointList="-216,-76,-280,-76,-280,-120,-400,-120,-400,20,-372,20" />
+
+<item itemtype="Connector" uid="Connector-28" startpinid="Ground-12-Gnd" endpinid="Push-11-pinP0" pointList="-496,80,-496,60,-484,60" />
+
+<item itemtype="Connector" uid="Connector-29" startpinid="Push-11-switch0pinN" endpinid="mega328-1-PORTC0" pointList="-452,60,-316,60,-316,-28,-324,-28" />
+
+<item itemtype="Connector" uid="Connector-31" startpinid="Ground-14-Gnd" endpinid="Push-13-pinP0" pointList="-496,128,-496,108,-484,108" />
+
+<item itemtype="Connector" uid="Connector-33" startpinid="Ground-16-Gnd" endpinid="Push-15-pinP0" pointList="-496,180,-496,160,-484,160" />
+
+<item itemtype="Connector" uid="Connector-35" startpinid="Ground-18-Gnd" endpinid="Push-17-pinP0" pointList="-496,228,-496,208,-484,208" />
+
+<item itemtype="Connector" uid="Connector-36" startpinid="Push-13-switch0pinN" endpinid="mega328-1-PORTC1" pointList="-452,108,-312,108,-312,-36,-324,-36" />
+
+<item itemtype="Connector" uid="Connector-37" startpinid="Push-15-switch0pinN" endpinid="mega328-1-PORTC2" pointList="-452,160,-452,156,-308,156,-308,-44,-324,-44" />
+
+<item itemtype="Connector" uid="Connector-38" startpinid="Push-17-switch0pinN" endpinid="mega328-1-PORTC3" pointList="-452,208,-320,208,-320,-52,-324,-52" />
+
+</circuit>
