@@ -1,4 +1,4 @@
-# 📦 Sistemas Embarcados – Projetos Acadêmicos e Práticos
+# 🖲️ Sistemas Embarcados – Projetos Acadêmicos e Práticos
 
 Repositório contendo projetos desenvolvidos na disciplina de **Sistemas Embarcados**, utilizando microcontroladores **AVR (ATmega328P)** e simulados no **SimulIDE**. Os projetos demonstram controle básico de hardware, interrupções externas, displays de 7 segmentos e gerenciamento de entradas (botões).
 
